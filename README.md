@@ -1,5 +1,9 @@
 # claude-mem-main
 
+<!-- HMZ PORTFOLIO STANDARD -->
+> Portfolio status: active · Visibility: public · Source of truth: current repository source.
+<!-- END HMZ PORTFOLIO STANDARD -->
+
 > **Persistent memory for Claude — long-running context that survives session resets** — A memory layer for Claude Code. Auto-extracts facts from sessions, writes to namespaced markdown files, surfaces them as system reminders next session. The closest thing to durable agent memory.
 
 <p align="center">
