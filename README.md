@@ -17,3 +17,7 @@ The nested package and plugin manifests identify [thedotmack/claude-mem](https:/
 ## Security
 
 Treat memory stores, prompts, tool observations, logs, and databases as potentially sensitive. See [SECURITY.md](SECURITY.md).
+
+## README index
+
+Browse the [recursive README inventory](docs/README.md) for README Markdown files in this branch.
